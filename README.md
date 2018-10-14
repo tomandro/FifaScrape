@@ -1,0 +1,2 @@
+﻿Basic file that will get json info of football players from fifa ultimate team website, create those players as c# objects and add them to a list.
+After list is created players are then saved to a file.
