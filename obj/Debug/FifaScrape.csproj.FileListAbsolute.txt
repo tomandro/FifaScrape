@@ -1,0 +1,13 @@
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\bin\Debug\FifaScrape.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\bin\Debug\FifaScrape.exe
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\bin\Debug\FifaScrape.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\bin\Debug\Newtonsoft.Json.Net20.dll
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\obj\Debug\FifaScrape.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\obj\Debug\FifaScrape.exe
+c:\users\thoma\documents\visual studio 2015\Projects\FifaScrape\FifaScrape\obj\Debug\FifaScrape.pdb
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\bin\Debug\FifaScrape.exe.config
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\obj\Debug\FifaScrape.exe
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\obj\Debug\FifaScrape.pdb
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\bin\Debug\FifaScrape.exe
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\bin\Debug\FifaScrape.pdb
+C:\Users\Thomas\Downloads\FifaScrape\FifaScrape\obj\Debug\FifaScrape.csprojResolveAssemblyReference.cache
